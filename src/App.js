@@ -5,9 +5,7 @@ function App() {
     <div
       className="h-screen"
       style={{ backgroundImage: `url(${landscape})`, backgroundSize: `cover` }}
-    >
-      <h2 className="text-white">Hello</h2>
-    </div>
+    ></div>
   );
 }
 
